@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsadRaza110
-- 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Front End Development
+- 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me 0347-2662695
 
 <!---
